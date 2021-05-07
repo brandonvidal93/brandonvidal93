@@ -20,6 +20,8 @@
 * Adobe XD
 * Figma
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonvidal93&layout=compact&theme=buefy)](https://github.com/brandonvidal93/github-readme-stats)
+
 🎨 Me gusta el diseño web y trato de incorporarlo en todo lo que hago.
 
 🏀 Entre mis hobbies están: jugar baloncesto, viajar en moto, practicar guitarra y piano, leer y ver series.
@@ -41,6 +43,9 @@
 ```
 
 ![Banner](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
+<!---
+![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonvidal93&hide=contribs,prs&theme=buefy&show_icons=true)
+--->
 <!---
 brandonvidal93/brandonvidal93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
