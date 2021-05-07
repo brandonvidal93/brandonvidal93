@@ -31,9 +31,11 @@
 ```json
 {
   "ContactInfo": {
-    "WhatsApp": "+57 3147417297",
-    "email": "brandonvidal93@gmail.com",
-    "LinkedIn": "Brandon Vidal Jaramillo - brandonvidal93"
+    "whatsApp": "📞 +57 3147417297",
+    "email"   : "📧 brandonvidal93@gmail.com",
+    "webSite" : "💻 brandonvidalweb.com",
+    "linkedIn": "👤 Brandon Vidal Jaramillo - brandonvidal93",
+    "twitter" : "🐦 @brandonvidal"
   }
 }
 ```
